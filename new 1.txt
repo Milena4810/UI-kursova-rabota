@@ -1,0 +1,223 @@
+   <! DOCTEP html>                                                                  !<html lang="en"><head>
+ 
+ 
+ <html xmlns="http://www.w3.org/1999/xhtml"><head>
+      
+        <base href="http://kustendil.com/">
+    <title>История на Кюстенил | Кюстендил - едно райско кътче!</title>  
+        <!-- some meta tags --> 
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta name="googlebot" content="index, follow">
+      <meta name="googlebot" content="noarchive">
+
+        <meta name="description" content="Кратка история на град Кюстендил, проследяваща основаването му, падането му под римска и османска власт и образуването на сегашния му облик. Информация за термите, крепостите и манастирите, строени там и тяхното значение.">           
+        <meta name="keywords" content="oldest cities, Pautalia, Velbyzhd, fertility,hot mineral springs, medicinal resort, fortress, Asclepius, asclepion, Hissarluka, Episcopal Center, monasteries, Ivan Rilski, Ilyo the Voivode, Rumena the Voivode"> 
+        <meta http-equiv="Content-Style-Type" content="text/css"> 
+        <meta http-equiv="Content-Script-Type" content="text/javascript"> 
+
+        <!-- include stuffs --> 
+        <link type="text/css" rel="stylesheet" href="css/reset.css">
+        <link type="text/css" rel="stylesheet" href="css/style.css">
+        <link href="js/booklet/jquery.booklet.1.1.0.css" type="text/css" rel="stylesheet" media="screen">
+        <link type="text/css" rel="stylesheet" href="css/slider.css">
+        <link type="text/css" rel="stylesheet" href="js/lightbox/themes/default/jquery.lightbox.css">
+        <link type="text/css" rel="stylesheet" href="css/sllider2.css">
+        
+
+        <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+         
+        <!--[if IE 6]>
+        <script src="js/DD_belatedPNG_0.0.8a.js"></script>
+        <script>
+          /* EXAMPLE */
+          DD_belatedPNG.fix('.menu-y, logo. links li:hover');
+
+          /* string argument can be any CSS selector */
+          /* .png_bg example is unnecessary */
+          /* change it to what suits you! */
+        </script>
+        <![endif]-->
+     <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26868309-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    </head>
+    <body id="page-body">
+        <div class="alll">
+            <img alt="full screen background image" src="img/bg.jpg" id="full-screen-background-image">
+            
+<div class="menu">
+    <div class="menu-y">
+        <div class="cont-menu">
+            <div class="logo-cont"><a href="home" title="Kюстендил - балнеоложки и туристически център">
+                    <img src="img/gerb-bg.png" class="logo" alt="Kюстендил - балнеоложки и туристически център"></a>
+            </div>
+            <div class="links">
+
+                <ul id="nav">
+                    <li><a href="bg/home" class="" style="border-radius: 10px;">
+                    Нaчало</a></li>
+                    
+                   
+                    <li><a href="#" class="selected" title="За града" style="border-radius: 10px;">За града</a>
+                        <ul style="border-radius: 10px;">
+                            <li> <a href="bg/history" class="selected" style="border-radius: 10px;">
+                    История</a> </li>
+                            <li class="cult1"><a href="bg/culture" class="" style="border-radius: 10px;">
+                    Култура</a>
+                                 			
+                        <div class="clear"></div>
+                    </li>
+                            
+                        </ul>
+                    </li>
+                    
+                    
+                    <li><a href="bg/landmarks" class="" style="border-radius: 10px;">Забележителности</a>
+                    <ul style="border-radius: 10px;">
+                        <li><a href="bg/landmarks/category/3/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8" class="" style="border-radius: 10px;">
+                            Исторически</a>
+                     </li>
+                     <li><a href="bg/landmarks/category/4/%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%B8" class="" style="border-radius: 10px;">
+                     Природни</a></li>
+                     
+                     <li><a href="bg/landmarks/category/5/%D0%9A%D1%83%D0%BB%D1%82%D1%83%D1%80%D0%BD%D0%B8" class="" style="border-radius: 10px;">
+                     Културни</a></li>
+                     
+                     <li><a href="bg/landmarks/category/6/%D0%A5%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B5" class="" style="border-radius: 10px;">
+                     Храмове</a></li>
+                        </ul>	
+                    
+                    </li>
+                    <li><a href="bg/gallery" class="" style="border-radius: 10px;">Галерия</a></li>
+                    
+                    <li><a href="bg/links" class="" style="border-radius: 10px;">Полезни връзки</a>
+                        <ul style="border-radius: 10px;">
+                            <li><a href="bg/links/category/7/%D0%97%D0%B0%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F" class="" style="border-radius: 10px;">
+                     Заведения</a></li>
+                    
+                            <li><a href="bg/links/category/8/%D0%A5%D0%BE%D1%82%D0%B5%D0%BB%D0%B8" class="" style="border-radius: 10px;">
+                     Хотели</a></li>
+                    
+                    
+                        </ul>
+                    </li>
+                    
+                    
+                </ul>
+
+                <div class="flags">
+                    <a href="bg/history"><img src="img/bg.png" alt="switch lang"></a>
+                    <a href="en/history"><img src="img/en.png" alt="switch lang"></a>
+                </div> 
+            </div>
+
+        </div>
+    </div>
+</div><div id="container">
+    <div id="content">
+        <div class="cont-main">
+            <div class="slider">
+               <div style="height: 250px;">
+<img src="img/history.jpg" alt="История на Кюстенил | Кюстендил - едно райско кътче!">
+</div>            </div>
+
+            <div class="main-cont">
+                <div class="cont-top"></div>
+                <div class="cont-y">
+                    <div class="content">
+                       <div class="home">
+    <center><h1>История на Кюстенил</h1></center><br>
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;Кюстендил е един от най-старите градове в България. В историята е известен с имената Пауталия, Улпия Пауталия, Пауталия Аврелий, Велевуздион, Велбондж, Велбъжд, Константинова баня, Ълъджа, Баня, Коласия, Кюстендил.</p>
+
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/his1.png" alt="Кюстендил преди години"><br><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;Плодородието и топлите минерални извори привлекли <strong>траките</strong> още в <strong>края на бронзовата епоха</strong> и те основали селище тук. Най-голямото племе било това на дентелетите. По-късно името му приема и цялата област – Дентелетика.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;След падането на траките под римска власт <strong>римляните</strong> превръщат селището във важна <strong>крепост</strong> и известен <strong>лечебен курорт</strong>, който наричали Пауталия – един от най-големите градски центрове в провинция Тракия.
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Кюстендил е бил провъзгласен за град през 106 година по време на управлението на император Марк Улпий Траян. През II-III в. градът сече свои бронзови монети. Пауталия е била сред <strong>най-цветущите селища</strong> от онова време.</p> 
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;В чест на бог Асклепий е изграден здравеносен център – <a href="http://kustendil.com/bg/landmarks/view/3/2/%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%20%D1%82%D0%B5%D1%80%D0%BC%D0%B8"><strong>асклепион</strong></a>. Останки от него сега се намират в центъра на града. Там е имало зали за лечение и отдих, басейни с топла минерална вода, места за гимнастика. През V-ти век поради зачестили набези на варварски племена е изградена <a href="http://kustendil.com/bg/landmarks/view/3/29/%D0%9A%D1%8A%D1%81%D0%BD%D0%BE-%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%BD%D0%B0-%D0%B8-%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%BE%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2%D0%BD%D0%B0-%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82-%D0%A5%D0%B8%D1%81%D0%B0%D1%80%D0%BB%D1%8A%D0%BA%D0%B0"><strong>крепостта на Хисарлъка</strong></a>, която е използвана до 15-ти век.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;По-късно градът се преименува Велбъжд и носи името вероятно на някой вожд. Не е известно кога Велбъжд е присъединен към новооснованата българска държава, но се предполага, че това става в началото на 9 век, вероятно по време на царуването на хан Крум. След покръстването на българите, градът става важен <strong>епископски център</strong>.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;По времето на византийското иго около Велбъжд израстват големи манастирски комплекси, свързани с живота и дейността на българските светци Иван Рилски, Йоаким Осоговски и др. Тогава значението на Влбъжд нараства и в грамота на Алексий I Комнин той е споменат на трето място преди Средец.</p>
+<img src="img/his2.png" style="float: right; margin-left: 2px;" alt="Кюстендил преди години">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Когато управляват Деяновци е образувано Велбъждското княжество с център Велбъжд. Той е последният голям български град, загубил независимостта си.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;В края на ХІV век градът преминава под властта на Османската империя и новото му име е Константин-илл (Константинова земя) по името на последния му християнски владетел Константин Драгаш, което преминава в Кюстендил. Българското население там не се примирява с робската действителност и при всеки удобен случай прави опит да се освободи.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;През Възраждането градът бързо се развива и разраства. С общонародни средства се построяват църква и училище. В околните планини действат хайдушките чети на Ильо войвода и Румена войвода, една от малкото жени-войводи в българската история. 
+Град Кюстендил е освободен от турско робство на 30 януари 1878 година. След Освобождението се развива тютюнопроизводството, овощарството и се разраства балнеолечението.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Градът се разраства и придобива днешния си облик. </p></div>                    </div>
+                    <div class="right-side">
+                        <form class="search" method="post" action="bg/home/search/">
+                             <h2>Търсене</h2>
+                             <div class="searchinput"><input type="text" name="q" value=""></div>
+                            <div><input type="submit" value="  " class="searchb"></div>
+                        </form>
+                        
+                        <div class="random">
+                            <h2>Знаете ли че:</h2>
+                            <div class="random-top"></div>
+                                <div class="random-y">
+                           <ul class="random-txt">                               <li>
+                                   Кюстендил кандидатства за европейска столица на културата                               </li>
+                              
+                                                          <li>
+                                   на сцената на кюстендилския читалищен театър за пръв път в Бълагария и в света се играе “Майка” от М. Горки.                               </li>
+                              
+                                                          <li>
+                                   първото българско училище в гр. Кюстендил е създадено през 1820 г. в двора на църквата "Успение Богородично".                               </li>
+                              
+                                                         </ul>
+                                </div>
+                            <div class="random-bot"></div>
+                        </div><br>
+                        <div class="guestbooklink">
+                        <!--  <a href="bg/home/guestbook" >Книга за гости</a> -->
+                        </div>
+                    </div>
+<div class="clear"></div>
+                </div>
+                
+                <div class="clear"></div>
+                <div class="cont-bot"></div>
+            </div>
+
+        </div>
+    </div>
+</div>        </div> 
+            <!-- END ALL -->
+ <div class="footer">
+            <div class="footcont">
+           <div>Създадено от Денис Георгиев и Емануела Моллова</div>
+                <a href="http://kustendil.com/bg/"><img src="img/footer-logo-bg.png" class="foot-logo" alt=""></a>
+            </div>
+        </div>
+              <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+        <script type="text/javascript" src="js/corners.js"></script>
+        <script type="text/javascript" src="js/lightbox/jquery.lightbox.js"></script>
+             <script type="text/javascript" src="js/headfunc.js"></script>   
+   
+<div id="1638728010780" class="jquery-lightbox-overlay" style="position: fixed; top: 0px; left: 0px; opacity: 0.6; display: none; z-index: 6999;"></div><div class="jquery-lightbox-move" style="position: absolute; z-index: 7000; top: -999px; left: -999px;"><div class="jquery-lightbox jquery-lightbox-mode-image"><div class="jquery-lightbox-border-top-left"></div><div class="jquery-lightbox-border-top-middle"></div><div class="jquery-lightbox-border-top-right"></div><a class="jquery-lightbox-button-close" href="#close"><span>Close</span></a><div class="jquery-lightbox-buttons"><div class="jquery-lightbox-buttons-init"></div><a class="jquery-lightbox-button-left" href="#"><span>Previous</span></a><a class="jquery-lightbox-button-max" href="#"><span>Maximize</span></a><div class="jquery-lightbox-buttons-custom"></div><a class="jquery-lightbox-button-right" href="#"><span>Next</span></a><div class="jquery-lightbox-buttons-end"></div></div><div class="jquery-lightbox-background"></div><div class="jquery-lightbox-html"></div><div class="jquery-lightbox-border-bottom-left"></div><div class="jquery-lightbox-border-bottom-middle"></div><div class="jquery-lightbox-border-bottom-right"></div></div></div></body></html>
+
+<th><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B1%D1%80%D0%BE%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D1%82%D0%BE_%D0%B2_%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F_(2011)" title="Преброяване на населението в България (2011)">2011</a><br><small>(1.2.2011)</small>
+</th>
+<td bgcolor="#eaecf0">135,142</td>
+<td>10 697</td>
+<td>11 691</td>
+
+<td>10 199</td>
+<td>8297</td>
+<td>6556</td><td>5326</td><td>4620</td><td>3695</td><td>2870
+<td>4620</td><td>3695</td><td>2870
+</td>
