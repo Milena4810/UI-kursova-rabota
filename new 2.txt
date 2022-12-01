@@ -1,1 +1,25 @@
-<a target="_blank" href="https://www.bing.com/ck/a?!&amp;&amp;p=8dce268ebd279369781b249bc321826208452e9df91894f2e0855b5ca4527991JmltdHM9MTY1MDM5NjYxMiZpZ3VpZD1hNmM3OWUwMi0wYWQyLTQzMjktOTBiMi1lOGY0MjFhM2E2NGUmaW5zaWQ9NTEzNQ&amp;ptn=3&amp;fclid=218b50ee-c017-11ec-bdc0-1ab0968bb3ec&amp;u=a1aHR0cHM6Ly9iZy1iZy5mYWNlYm9vay5jb20vbW95YXRncmFkZWt5dXN0ZW5kaWwvP21zY2xraWQ9MjE4YjUwZWVjMDE3MTFlY2JkYzAxYWIwOTY4YmIzZWM&amp;ntb=1" h="ID=SERP,5135.1">Моят град е Кюстендил - Начало</a>
+<script>
+
+/*Current date script credit: 
+JavaScript Kit (www.javascriptkit.com)
+Over 200+ free scripts here!
+*/
+
+var mydate=new Date()
+var year=mydate.getYear()
+if (year < 1000)
+year+=1900
+var day=mydate.getDay()
+var month=mydate.getMonth()
+var daym=mydate.getDate()
+if (daym<10)
+daym="0"+daym
+var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+document.write("<small><font color='000000' face='Arial'><b>"+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+"</b></font></small>")
+
+</script>
+
+<p align="center"><font face="arial, helvetica" size="-2">This free script provided by</font><br>
+<font face="arial, helvetica" size="-2"><a href="http://javascriptkit.com">JavaScript
+Kit</a></font></p>
